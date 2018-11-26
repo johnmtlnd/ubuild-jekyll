@@ -20,6 +20,14 @@ page_sections:
       Qatar, &amp; Portugal<br>- B.F.A. in Graphic Design from VA Commonwealth University<br>-
       Fluent in English, reads basic Spanish &amp; French<br>- Passionate about digital
       product design"
+  col_2:
+    headline: Interests
+    content: "- World Traveler (12+ countries and counting)<br>- Co-chair of the Mercer
+      Pride LGBTQIA+ group<br>- Committee member for Mercer Cares<br>- Volunteered
+      at the lab for the first underground park<br>- Chain reader with a penchant
+      for literature<br>- Shamelessly obsessed with Paris and French culture<br>-
+      Striving to become an unofficial New Yorker<br>- Patron of the ballet, theatre,
+      and bad pop concerts"
 - template: full-width-media-element
   block: media-1
 - template: 2-column-text
