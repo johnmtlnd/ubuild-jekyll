@@ -7,6 +7,10 @@ page_sections:
   block: header-2
 - template: hero-banner-w-image
   block: hero-2
+  background_image: "/uploads/2018/11/26/img-about-header00-new-york-michael-walker-design.png"
+  headline: About Michael
+  content: Michael has a background in digital product design and offers professional
+    UI/UX design services.
 - template: 2-column-text
   block: two-column-1
 - template: full-width-media-element
