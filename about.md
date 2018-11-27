@@ -58,6 +58,5 @@ page_sections:
   caption: Let's Get to Work
 - template: simple-footer
   block: footer-1
-published: false
 
 ---
