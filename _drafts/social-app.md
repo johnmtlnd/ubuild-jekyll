@@ -51,6 +51,9 @@ page_sections:
       nibh scelerisque.Nullam posuere elit eget efficitur interdum.Suspendisse porta
       mauris faucibus, bibendum ex nec, mollis leo.Suspendisse eu dui vestibulum,
       laoreet ex non, cursus justo.
+  col_2:
+    headline: The Team
+    content: <img src="/uploads/2018/11/27/img-team-sandy-new-york-michael-walker-design.jpg">
 - template: 3-column-text
   block: three-column-1
 
