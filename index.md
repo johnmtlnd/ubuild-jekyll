@@ -1,20 +1,18 @@
 ---
 layout: blocks
-title: Homepage
+title: Home Page
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
+  - link: Contact
+    link_text: https://docs.google.com/forms/d/e/1FAIpQLScv8zCY3JfUlDScjRgx0syektm9l4yw7ELvZbpRyDpGpz-URg/viewform
   - link: "/"
     link_text: Home
-  - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Pricing
-  - link: "#"
-    link_text: Team
+  - link: "/about"
+    link_text: About
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
