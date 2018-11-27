@@ -34,6 +34,12 @@ page_sections:
   caption: Services Offered
 - template: 2-column-text
   block: two-column-1
+  col_1:
+    headline: What Others Say
+    content: '"Michael is not only a talented designer with an excellent eye for spacing
+      and typography, he''s also committed with great spirit! I consider myself fortunate
+      to have him as a co-worker, and fellow designer."<br><br><img src="/uploads/2018/11/27/img-team-sandy-new-york-michael-walker-design.jpg">
+      <strong>Sandra Garett</strong>'
 - template: full-width-media-element
   block: media-1
 - template: simple-footer
