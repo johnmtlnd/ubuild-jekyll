@@ -20,17 +20,17 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: "<strong>Michael Walker</strong> <br>Digital Product Designer"
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "/about"
+    button_text: About
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2018/11/27/img-home-hero-headshot-combo-00-new-york-michael-walker-design.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -75,6 +75,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
