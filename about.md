@@ -30,6 +30,8 @@ page_sections:
       and bad pop concerts"
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/2018/11/27/img-about-services-offered-00-new-york-michael-walker-design.png"
+  caption: Services Offered
 - template: 2-column-text
   block: two-column-1
 - template: full-width-media-element
