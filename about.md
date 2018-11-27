@@ -43,6 +43,15 @@ page_sections:
       focus, passion, inspiring leadership, and can-do attitude [make him] a pleasure
       to work with and an incredible asset to any team he is a part of!"<br><img src="/uploads/2018/11/27/img-team-chantel-new-york-michael-walker-design.jpeg"><strong>Chantrel
       Catapano<br></strong>Co-Chair, Mercer Cares'
+  col_2:
+    content: '"I found Michael to be insightful, organized and dedicated to putting
+      out a quality product...I have watched him skillfully take on new projects and
+      initiatives with a keen ability to manage multiple clients. I''ve also been
+      impressed with watching him not just gather requirements from clients, but also
+      use his knowledge in visual design to provide the customer with alternative
+      options that improve upon the original request. I''m looking forward to working
+      with Michael on more projects."<br><img src="/uploads/2018/11/27/img-team-bosko-new-york-michael-walker-design.jpeg"><strong>Bosko
+      Kacarevic<br></strong>Principal, Mercer'
 - template: full-width-media-element
   block: media-1
 - template: simple-footer
