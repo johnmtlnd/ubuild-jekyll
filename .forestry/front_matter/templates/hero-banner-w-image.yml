@@ -42,9 +42,23 @@ fields:
   - type: boolean
     name: enabled
     label: Enabled
+    default: false
   - type: text
     name: url
     label: url
   - type: text
     name: button_text
     label: Button text
+- type: field_group
+  name: cta
+  label: Call-to-action
+  fields:
+  - type: blocks
+  - type: text
+    name: url
+    label: URL
+    config:
+      required: true
+  - type: text
+    label: Button Text
+    name: button_text
