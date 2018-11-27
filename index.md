@@ -9,6 +9,10 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
+  - link: "/about"
+    link_text: About
+  - link: https://docs.google.com/forms/d/e/1FAIpQLScv8zCY3JfUlDScjRgx0syektm9l4yw7ELvZbpRyDpGpz-URg/viewform
+    link_text: Contact
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Michael Walker</strong> <br>Digital Product Designer"
