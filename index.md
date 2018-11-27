@@ -25,6 +25,9 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: "/uploads/2018/11/27/img-home-hero-headshot-combo-00-new-york-michael-walker-design.png"
+  cta-2:
+    button_text: Contact
+    url: https://docs.google.com/forms/d/e/1FAIpQLScv8zCY3JfUlDScjRgx0syektm9l4yw7ELvZbpRyDpGpz-URg/viewform
 - template: content-feature
   block: feature-1
   media_alignment: Left
