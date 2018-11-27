@@ -44,6 +44,13 @@ page_sections:
       laoreet ex non, cursus justo.
 - template: 2-column-text
   block: two-column-1
+  col_1:
+    headline: Research
+    content: Vivamus sit amet sapien ut ipsum dignissim tempor.Phasellus sed tortor
+      in orci lacinia accumsan.Sed cursus urna quis nulla ultricies, ut sollicitudin
+      nibh scelerisque.Nullam posuere elit eget efficitur interdum.Suspendisse porta
+      mauris faucibus, bibendum ex nec, mollis leo.Suspendisse eu dui vestibulum,
+      laoreet ex non, cursus justo.
 - template: 3-column-text
   block: three-column-1
 
