@@ -21,8 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>Michael Walker</strong> <br>Digital Product Designer"
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: New York, NY
   cta:
     enabled: true
     url: "/about"
