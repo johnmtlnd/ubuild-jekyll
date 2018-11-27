@@ -50,10 +50,9 @@ fields:
     name: button_text
     label: Button text
 - type: field_group
-  name: cta
+  name: cta-2
   label: Call-to-action
   fields:
-  - type: blocks
   - type: text
     name: url
     label: URL
