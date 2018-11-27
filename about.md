@@ -39,7 +39,10 @@ page_sections:
     content: '"Michael is not only a talented designer with an excellent eye for spacing
       and typography, he''s also committed with great spirit! I consider myself fortunate
       to have him as a co-worker, and fellow designer."<br><br><img src="/uploads/2018/11/27/img-team-sandy-new-york-michael-walker-design.jpg">
-      <strong>Sandra Garett</strong>'
+      <strong>Sandra Garett<br></strong>Senior Visual Designer, Mercer<strong><br><br>"</strong>Michael''s
+      focus, passion, inspiring leadership, and can-do attitude [make him] a pleasure
+      to work with and an incredible asset to any team he is a part of!"<br><img src="/uploads/2018/11/27/img-team-chantel-new-york-michael-walker-design.jpeg"><strong>Chantrel
+      Catapano<br></strong>Co-Chair, Mercer Cares'
 - template: full-width-media-element
   block: media-1
 - template: simple-footer
