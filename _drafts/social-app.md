@@ -5,6 +5,14 @@ date: 2018-11-27 01:40:36 +0000
 page_sections:
 - template: navigation-header
   block: header-1
+  logo: "/uploads/2018/11/27/MDW_Main-logo.png"
+  navigation:
+  - link: "/"
+    link_text: Home
+  - link_text: About
+    link: "/about"
+  - link_text: Contact
+    link: https://docs.google.com/forms/d/e/1FAIpQLScv8zCY3JfUlDScjRgx0syektm9l4yw7ELvZbpRyDpGpz-URg/viewform
 - template: hero-banner-w-image
   block: hero-2
   cta:
