@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: Contact
-    link_text: https://docs.google.com/forms/d/e/1FAIpQLScv8zCY3JfUlDScjRgx0syektm9l4yw7ELvZbpRyDpGpz-URg/viewform
+  - link: https://docs.google.com/forms/d/e/1FAIpQLScv8zCY3JfUlDScjRgx0syektm9l4yw7ELvZbpRyDpGpz-URg/viewform
+    link_text: Contact
   - link: "/"
     link_text: Home
   - link: "/about"
