@@ -54,6 +54,8 @@ page_sections:
       Kacarevic<br></strong>Principal, Mercer'
 - template: full-width-media-element
   block: media-1
+  image: "/uploads/2018/11/27/img-footer-00-new-york-michael-walker-design.png"
+  caption: Let's Get to Work
 - template: simple-footer
   block: footer-1
 published: false
