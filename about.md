@@ -1,16 +1,31 @@
 ---
 title: About
 layout: blocks
-date: 2018-11-26 23:48:05 +0000
+date: 2018-11-26T23:48:05.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
+  logo: ''
+  navigation: []
+  cta:
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/11/26/img-about-header00-new-york-michael-walker-design.png"
   headline: About Michael
   content: Michael has a background in digital product design and offers professional
     UI/UX design services.
+  image:
+    image: ''
+    alt_text: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
+  cta-2:
+    url: johnmtlnd.com
+    button_text: John Maitland
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -52,11 +67,13 @@ page_sections:
       options that improve upon the original request. I''m looking forward to working
       with Michael on more projects."<br><img src="/uploads/2018/11/27/img-team-bosko-new-york-michael-walker-design.jpeg"><strong>Bosko
       Kacarevic<br></strong>Principal, Mercer'
+    headline: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/11/27/img-footer-00-new-york-michael-walker-design.png"
   caption: Let's Get to Work
 - template: simple-footer
   block: footer-1
+  content: ''
 
 ---
